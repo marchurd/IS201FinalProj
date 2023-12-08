@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+li {
+    font-style: italic;
+}
+a {
+    color: white;
+}
+
+.homebg {
+    background-color: black;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    width: 700px;
+    height: 100px;
+}
+
+.mainbody {
+    top: 155px;
+    bottom: 39px;
+}
+
+.footer {
+    top: 850px;
+    bottom: 5px;
+    height: 25px;
+}
